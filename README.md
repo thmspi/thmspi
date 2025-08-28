@@ -2,7 +2,7 @@
 I'm a fourth year student at EFREI Paris in the objective to work in the cloud ☁️
 
 - AWS Solution Architect Certified ☁️
-- Terraform Hashicorp Associate Certified 🧱
+- Hashicorp Terraform Associate Certified 🧱
 - CISCO Junior Cybersecurity Analyst Career Path 🔐
 
 
